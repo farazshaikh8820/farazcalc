@@ -1,0 +1,2 @@
+# farazcalc
+Basic calculator 
